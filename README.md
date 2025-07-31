@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi! I'm Srithija Sure! 🌸
+
+I'm an undergraduate student pursuing a major in Technology and Information Management (TIM) at the University of California, Santa Cruz (UCSC)! I'm passionate about data analysis, data science, project management, and UI/UX. I also enjoy exploring my creative side and implementing that into my projects! In my free time, I like to dance, read, and listen to music.
+
+### 💻 Currently working on...
+* Creating projects that line with my interests and build my resume/portfolio
+
+### 🌱 Open to...
+* Fall 2025 and Summer 2026 internships (data science-, data analytics-, PM-, or UI/UX-oriented)
+* Research
+* Other oppurtunities that support my growth and learning
+
+### ☎️ How to Reach Me
+* LinkedIn: www.linkedin.com/in/srithija-sure-a32581226
+* Email: srithija.sure@gmail.com
 
 <!--
 **svsure/svsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
